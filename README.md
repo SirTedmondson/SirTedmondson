@@ -6,7 +6,6 @@
 - :computer: I'm preparing for: SEC586: Blue Team Operations: Defensive PowerShell
 - 💬 Ask me about Cybersecurity, Incident Response, Digital Forensics, Attacker Techniques
 - :cyclone: Goals: Create personal projects on GitHub and develop more content for myself and others to use
-- 📫 How to reach me: 
 - ⚡ Fun fact: I'm a competitive Powerlifter in Australia
 
 ### Languages and Tools
@@ -27,12 +26,15 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/SirTed.png" alt="TryHackMe">
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirTedmondson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirTedmondson&count_private=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SirTedmondson/SirTedmondson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 📫 How to reach me:
+
 
 ADD AN IMAGE FOR TOOLS/LANGUES
 <img src="" height="40" style="vertical-align:top; margin:4px">
