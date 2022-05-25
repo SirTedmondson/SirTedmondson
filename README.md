@@ -3,7 +3,7 @@
 
 ### About Me
 - 🌱 I’m currently studying a Masters of Cybersecurity at UNSW
-- :computer: I'm preparing for: SEC586: Blue Team Operations: Defensive PowerShell
+- :computer: I'm preparing for SEC586: Blue Team Operations: Defensive PowerShell
 - 💬 Ask me about Cybersecurity, Incident Response, Digital Forensics, Attacker Techniques
 - :cyclone: Goals: Create personal projects on GitHub and develop more content for myself and others to use
 - ⚡ Fun fact: I'm a competitive Powerlifter in Australia
