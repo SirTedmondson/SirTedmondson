@@ -1,7 +1,5 @@
 # Welcome to my GitHub!
 
-## About me
-- Currently work in CyberSecurity surrounding Incident Response and Threat Hunting
 
 
 
