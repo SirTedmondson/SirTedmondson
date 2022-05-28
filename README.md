@@ -1,4 +1,4 @@
-## Hi there, I'm SirTedmondson but call me Eddy 👋
+## Hi there, I'm SirTedmondson 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=SirTedmondson.SirTedmondson)
 
 ### About Me
